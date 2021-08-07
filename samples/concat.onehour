@@ -1,0 +1,4 @@
+push "world"
+push "hello"
+add
+pop
