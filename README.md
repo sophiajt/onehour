@@ -1,4 +1,4 @@
-# Project from "Building a programming language in an hour"
+# Building a programming language in an hour
 
 This is the project I made while doing the [Building a programming language in an hour](https://www.youtube.com/watch?v=Zkd3mZYOOvw) video.
 
